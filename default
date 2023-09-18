@@ -2,8 +2,8 @@
 
 :root {
   --deftraback: rgba(229, 9, 20, 0.2) !important;
-  --rounding: 3px;
-  --accent: #e50914;
+  --rounding: 5px;
+  --accent: #044d95;
 }
 
 /*Highlight*/
@@ -750,57 +750,57 @@ div#videoOsdPage {
 
 /*Fonts */
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 100;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2)
+  src: url(../fonts/museo-sans-100.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff)
+    url(../fonts/museo-sans-100.woff)
       format("woff");
 }
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 300;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff2)
+  src: url(../fonts/museo-sans-300.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff)
+    url(../fonts/museo-sans-300.woff)
       format("woff");
 }
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 400;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2)
+  src: url(../fonts/museo-sans-500.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff)
+    url(../fonts/museo-sans-500.woff)
       format("woff");
 }
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 700;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2)
+  src: url(../fonts/museo-sans-700.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff)
+    url(../fonts/museo-sans-700.woff)
       format("woff");
 }
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 800;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff2)
+  src: url(../fonts/museo-sans-900.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff)
+    url(../fonts/museo-sans-900.woff)
       format("woff");
 }
 @font-face {
-  font-family: "Netflix Sans";
+  font-family: "Museo Sans";
   font-weight: 900;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff2)
+  src: url(../fonts/museo-sans-900.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff)
+    url(../fonts/museo-sans-900.woff)
       format("woff");
 }
 body,
@@ -808,15 +808,15 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Netflix Sans", sans-serif !important;
+  font-family: "Museo Sans", sans-serif !important;
 }
 
-/*Subtitle Fonts (Netflix Sans Medium) thanks the u/Edgementality-https://bit.ly/33slrSa*/
+/*Subtitle Fonts (Museo Sans Medium) thanks the u/Edgementality-https://bit.ly/33slrSa*/
 
 /*Firefox*/
 
 .videoSubtitles {
-  font-family: "Netflix Sans", sans-serif !important;
+  font-family: "Museo Sans", sans-serif !important;
   font-weight: 700 !important;
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1) !important;
 }
@@ -824,7 +824,7 @@ h4 {
 /*Chrome, Edge Chromium & Saffari*/
 
 video::-webkit-media-text-track-display {
-  font-family: "Netflix Sans", sans-serif !important;
+  font-family: "Museo Sans", sans-serif !important;
   font-weight: 700 !important;
   text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
 }
@@ -832,13 +832,13 @@ video::-webkit-media-text-track-display {
 /*backup for subtitles*/
 
 video::-webkit-media-text-track-container {
-  font-family: "Netflix Sans", sans-serif !important;
+  font-family: "Museo Sans", sans-serif !important;
   font-weight: 700 !important;
   text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
 }
 
 video:cue {
-  font-family: "Netflix Sans", sans-serif !important;
+  font-family: "Museo Sans", sans-serif !important;
   font-weight: 700 !important;
   text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
 }
