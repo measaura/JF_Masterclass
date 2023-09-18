@@ -676,7 +676,7 @@ div#loginPage {
 
 .layout-mobile #loginPage {
   background: linear-gradient(to left, #000000bf, #000000bf),
-    url(./img/PDWT2_Pipelines_PIC%20-%20Mobile.jpg) !important;
+    url(./img/PDWT2_Pipelines-Mobile.jpg) !important;
   background-size: cover !important;
 }
 
@@ -699,7 +699,7 @@ div#loginPage {
     linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to left, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to right, rgba(0, 0, 0, 0.75), transparent 20%),
-    url(./img/PDWT2_Pipelines_PIC%20-%20Desktop.jpg) !important;
+    url(./img/PDWT2_Pipelines-Desktop.jpg) !important;
   background-size: cover !important;
 }
 
