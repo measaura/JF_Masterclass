@@ -1,7 +1,7 @@
 /*Variables*/
 
 :root {
-  --deftraback: rgba(229, 9, 20, 0.2) !important;
+  --deftraback: rgba(0, 127, 123, 0.5) !important;
   --rounding: 5px;
   --accent: #00A19C;
 }
@@ -37,14 +37,14 @@
 
 fieldset.verticalSection.verticalSection-extrabottompadding {
   border-radius: var(--rounding);
-  border-color: #4d4d4d;
+  border-color: #3d3935;
 }
 
 /*Square Cards and Portrait Cards*/
 
 #loginPage .squareCard {
   width: 50% !important;
-  background: rgb(20, 20, 20) !important;
+  background: rgb(60, 56, 53) !important;
   transform: none !important;
 }
 
