@@ -676,7 +676,7 @@ div#loginPage {
 
 .layout-mobile #loginPage {
   background: linear-gradient(to left, #000000bf, #000000bf),
-    url(https://assets.nflxext.com/ffe/siteui/vlv3/03fdc4bf-72f6-4926-83a7-a76e6a1a5591/9f09b85f-530e-4090-82c3-a60ea2b3177f/US-en-20211115-popsignuptwoweeks-perspective_alpha_website_large.jpg) !important;
+    url(../img/PDWT2_Pipelines_PIC%20-%20Mobile.jpg) !important;
   background-size: cover !important;
 }
 
@@ -699,7 +699,7 @@ div#loginPage {
     linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to left, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to right, rgba(0, 0, 0, 0.75), transparent 20%),
-    url(https://assets.nflxext.com/ffe/siteui/vlv3/03fdc4bf-72f6-4926-83a7-a76e6a1a5591/9f09b85f-530e-4090-82c3-a60ea2b3177f/US-en-20211115-popsignuptwoweeks-perspective_alpha_website_large.jpg) !important;
+    url(../img/PDWT2_Pipelines_PIC%20-%20Desktop.jpg) !important;
   background-size: cover !important;
 }
 
