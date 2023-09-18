@@ -676,7 +676,7 @@ div#loginPage {
 
 .layout-mobile #loginPage {
   background: linear-gradient(to left, #000000bf, #000000bf),
-    url(../img/PDWT2_Pipelines_PIC%20-%20Mobile.jpg) !important;
+    url(./img/PDWT2_Pipelines_PIC%20-%20Mobile.jpg) !important;
   background-size: cover !important;
 }
 
@@ -699,7 +699,7 @@ div#loginPage {
     linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to left, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to right, rgba(0, 0, 0, 0.75), transparent 20%),
-    url(../img/PDWT2_Pipelines_PIC%20-%20Desktop.jpg) !important;
+    url(./img/PDWT2_Pipelines_PIC%20-%20Desktop.jpg) !important;
   background-size: cover !important;
 }
 
@@ -753,54 +753,54 @@ div#videoOsdPage {
   font-family: "Museo Sans";
   font-weight: 100;
   font-display: optional;
-  src: url(../fonts/museo-sans-100.woff2)
+  src: url(./fonts/museo-sans-100.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-100.woff)
+    url(./fonts/museo-sans-100.woff)
       format("woff");
 }
 @font-face {
   font-family: "Museo Sans";
   font-weight: 300;
   font-display: optional;
-  src: url(../fonts/museo-sans-300.woff2)
+  src: url(./fonts/museo-sans-300.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-300.woff)
+    url(./fonts/museo-sans-300.woff)
       format("woff");
 }
 @font-face {
   font-family: "Museo Sans";
   font-weight: 400;
   font-display: optional;
-  src: url(../fonts/museo-sans-500.woff2)
+  src: url(./fonts/museo-sans-500.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-500.woff)
+    url(./fonts/museo-sans-500.woff)
       format("woff");
 }
 @font-face {
   font-family: "Museo Sans";
   font-weight: 700;
   font-display: optional;
-  src: url(../fonts/museo-sans-700.woff2)
+  src: url(./fonts/museo-sans-700.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-700.woff)
+    url(./fonts/museo-sans-700.woff)
       format("woff");
 }
 @font-face {
   font-family: "Museo Sans";
   font-weight: 800;
   font-display: optional;
-  src: url(../fonts/museo-sans-900.woff2)
+  src: url(./fonts/museo-sans-900.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-900.woff)
+    url(./fonts/museo-sans-900.woff)
       format("woff");
 }
 @font-face {
   font-family: "Museo Sans";
   font-weight: 900;
   font-display: optional;
-  src: url(../fonts/museo-sans-900.woff2)
+  src: url(./fonts/museo-sans-900.woff2)
       format("woff2"),
-    url(../fonts/museo-sans-900.woff)
+    url(./fonts/museo-sans-900.woff)
       format("woff");
 }
 body,
