@@ -588,7 +588,7 @@ div#loginPage {
   position: absolute;
   border-radius: 10px;
   width: 30vw;
-  height: 70vh;
+  /* height: 70vh; */
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
@@ -1725,6 +1725,7 @@ h2 {
 .pageTitle {
   margin-top: auto;
   margin-bottom: auto;
+  height: 2.5em;
 }
 
 /*Blur backdrops, feel free to edit the intensity of the filter values*/
