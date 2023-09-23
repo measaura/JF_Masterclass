@@ -1064,6 +1064,11 @@ label.selectLabel {
   width: calc(33.333333333333336% - 10px);
 }
 
+@media (min-width:75em){
+  .overflowPortraitCard, .overflowSquareCard {
+    width: 10.5vw;
+  }
+}
 .overflowPotraitCard{
   width: 10.5vw;
 }
