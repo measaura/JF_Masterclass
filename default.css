@@ -1064,6 +1064,10 @@ label.selectLabel {
   width: calc(33.333333333333336% - 10px);
 }
 
+.overflowPotraitCard{
+  width: 10.5vw;
+}
+
 @media (min-width: 31.25em) {
   .portraitCard,
   .smallBackdropCard,
